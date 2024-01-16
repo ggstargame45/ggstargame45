@@ -10,7 +10,6 @@
 |Where|When|What|
 |---|---|---|
 |Military Service in ROK. army|2021.02 ~ 2022.08| Signalman for Wireless transmission equipment operation/maintenance |　　　　
-||||
 
 <br/>
 
@@ -22,11 +21,12 @@
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggstargame45&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
 </a>
-<br /> <br /> <br />
-
+<br />
+<br/>
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning imbedded system, automobile network, and automobile security
 - 👯 I’m looking to collaborate on 
 - 📫 How to reach me: ggstargame45@gmail.com
+<br />
