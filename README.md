@@ -15,6 +15,10 @@
 
 <br/>
 
+<h2> 💻 Skills </h2>
+
+<br/>
+
 <h2> 🚀 More Info </h2>
 <div align=center>
 <a href="#">
@@ -24,6 +28,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggstargame45&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
 </a>
 <br />
+
+
 
 <div align=left>
 
