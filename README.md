@@ -1,12 +1,3 @@
-<br/>
-<h2>🏫 Education</h2>
-
-|Where|When|What|
-|---|---|---|
-|Kookmin University|2019.03~| School of Computer Science |
-
-<br/>
-
 <h2>🧳 Experience </h2>
 
 |Where|When|What|
@@ -16,6 +7,13 @@
 <br/>
 
 <h2> 💻 Skills </h2>
+
+<br/>
+<h2>🏫 Education</h2>
+
+|Where|When|What|
+|---|---|---|
+|Kookmin University|2019.03~| School of Computer Science |
 
 <br/>
 
