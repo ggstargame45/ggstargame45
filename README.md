@@ -2,12 +2,14 @@
 
 |Where|When|What|
 |---|---|---|
-|Military Service in ROK. army|2021.02 ~ 2022.08| Signalman for Wireless transmission equipment operation/maintenance |　　　　
-
+|Military Service in ROK. army|2021.02.01 ~ 2022.07.31| Signalman for Wireless transmission equipment operation/maintenance |
+|Risingcraft Inc.|2022.08, 24.02 ~ | Making Phantom pain rehabilitation programs using XR technology, and making |
+|MALF|2023.04 ~ | My Business funded by the Korea Tourism Organization and Chungnam culture and tourism foundation for making a platform application connecting foriegn and local university students |
+|Kuse 3th | 24.01 ~ | Automotive Cyber Security club/society in Kookmin University, Studying and Researching about IVN, V2X, IDS |
 <br/>
 
 <h2> 💻 Skills </h2>
-
+<h3> Language</h3>
 <br/>
 <h2>🏫 Education</h2>
 
