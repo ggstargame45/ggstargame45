@@ -9,16 +9,17 @@
 <br/>
 
 <h2> 💻 Skills </h2>
+<div align=center>
 <h3>✔️Language</h3>
 <h3>✔️Frond-end/Client Application</h3>
 <h3>✔️Back-end</h3>
 <h3>✔️Network</h3>
 <h3>✔️Tools</h3>
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <h3>✔️Communication</h3>
-<img src="https://img.shields.io/badge/blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+<img src="https://img.shields.io/badge/blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
 <h2>🏫 Education</h2>
 
 |Where|When|What|
